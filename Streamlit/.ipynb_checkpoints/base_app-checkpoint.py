@@ -22,7 +22,6 @@
 
 """
 # Streamlit dependencies
-!pip install joblib
 import streamlit as st
 import joblib,os
 
