@@ -18,7 +18,6 @@
 * [4. Environment](#environment)
 * [5. MLFlow](#mlflow)
 * [6. Streamlit](#streamlit)
-* [7. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 
@@ -133,13 +132,8 @@ Congratulations! You've now officially deployed your first web application!
   
 - Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
 
-## 7. Team Members<a class="anchor" id="team-members"></a>
-
-| Name                                                                                        |  Email              
-|---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
+#### 6.3 To access the App:
+In order to access the app, open your terminal, navigate to the file location and enter "streamlit run base_app.py". This will open your browser and allow you to enter in text and have it classified.
 
 
 
