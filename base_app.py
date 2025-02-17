@@ -29,7 +29,7 @@ import joblib,os
 import pandas as pd
 
 # Vectorizer
-news_vectorizer = open("streamlit/tfidfvect.pkl","rb")
+news_vectorizer = open("vectorizer.pkl","rb")
 test_cv = joblib.load(news_vectorizer) # loading your vectorizer from the pkl file
 
 # Load your raw data
@@ -67,7 +67,7 @@ def main():
 			vect_text = test_cv.transform([news_text]).toarray() 
 			# Load your .pkl file with the model of your choice + make predictions
 			# Try loading in multiple models to give the user a choice
-			predictor = joblib.load(open(os.path.join("streamlit/Logistic_regression.pkl"),"rb"))
+			predictor = joblib.load(open(os.path.join("Logistic_Regression.pkl"),"rb"))
 			prediction = predictor.predict(vect_text)
 
 			# When model has successfully run, will print prediction

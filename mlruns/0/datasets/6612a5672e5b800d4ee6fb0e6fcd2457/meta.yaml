@@ -1,9 +1,0 @@
-digest: 18c1edd9
-name: dataset
-profile: '{"features_shape": [2000, 34505], "features_size": 69010000, "features_nbytes":
-  552080000}'
-schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
-  {\"dtype\": \"int64\", \"shape\": [-1, 34505]}}]", "targets": null}}'
-source: '{"tags": {"mlflow.user": "James Ireland", "mlflow.source.name": "C:\\ProgramData\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code
