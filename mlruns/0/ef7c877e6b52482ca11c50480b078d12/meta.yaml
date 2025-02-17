@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/James%20Ireland/Documents/ExploreAI/Classification/Group/explore_ai_classification/mlruns/0/ef7c877e6b52482ca11c50480b078d12/artifacts
+end_time: 1739783501870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef7c877e6b52482ca11c50480b078d12
+run_name: dashing-vole-884
+run_uuid: ef7c877e6b52482ca11c50480b078d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739783447335
+status: 3
+tags: []
+user_id: James Ireland
