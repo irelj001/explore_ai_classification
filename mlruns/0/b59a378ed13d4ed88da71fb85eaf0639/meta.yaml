@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/James%20Ireland/Documents/ExploreAI/Classification/Group/explore_ai_classification/mlruns/0/b59a378ed13d4ed88da71fb85eaf0639/artifacts
+end_time: 1739780505866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b59a378ed13d4ed88da71fb85eaf0639
+run_name: capable-colt-662
+run_uuid: b59a378ed13d4ed88da71fb85eaf0639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739780426530
+status: 3
+tags: []
+user_id: James Ireland
